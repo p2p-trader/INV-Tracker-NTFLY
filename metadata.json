@@ -1,0 +1,5 @@
+{
+  "name": "Inventory Tracker",
+  "description": "An inventory management application that visualizes data from a Google Sheet. It provides a real-time overview of material stock levels, helping you track inventory with a clean, user-friendly interface.",
+  "requestFramePermissions": []
+}
